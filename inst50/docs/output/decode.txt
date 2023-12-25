@@ -1,0 +1,63 @@
+Running D:\Code\mips\mips-asm-test\add-1.asm
+Mars result: 30013 lines
+User result: 30013 lines
+User cycle count: 50023
+User stall count: 10003
+D:\Code\mips\mips-asm-test\add-1.asm PASSED
+----------------------------------------------
+Running D:\Code\mips\mips-asm-test\add-2.asm
+Mars result: 20014 lines
+User result: 20014 lines
+User cycle count: 35023
+User stall count: 10001
+D:\Code\mips\mips-asm-test\add-2.asm PASSED
+----------------------------------------------
+Running D:\Code\mips\mips-asm-test\add-4.asm
+Mars result: 20016 lines
+User result: 20016 lines
+User cycle count: 32527
+User stall count: 10003
+D:\Code\mips\mips-asm-test\add-4.asm PASSED
+----------------------------------------------
+Running D:\Code\mips\mips-asm-test\add-8.asm
+Mars result: 20016 lines
+User result: 20016 lines
+User cycle count: 31277
+User stall count: 10003
+D:\Code\mips\mips-asm-test\add-8.asm PASSED
+----------------------------------------------
+Running D:\Code\mips\mips-asm-test\floyd.asm
+Mars result: 7013 lines
+User result: 7013 lines
+User cycle count: 14492
+User stall count: 6324
+D:\Code\mips\mips-asm-test\floyd.asm PASSED
+----------------------------------------------
+Running D:\Code\mips\mips-asm-test\gcd-hardmul.asm
+Mars result: 164 lines
+User result: 164 lines
+User cycle count: 450
+User stall count: 210
+D:\Code\mips\mips-asm-test\gcd-hardmul.asm PASSED
+----------------------------------------------
+Running D:\Code\mips\mips-asm-test\gcd-softmul.asm
+Mars result: 184 lines
+User result: 184 lines
+User cycle count: 320
+User stall count: 59
+D:\Code\mips\mips-asm-test\gcd-softmul.asm PASSED
+----------------------------------------------
+Running D:\Code\mips\mips-asm-test\lfsr.asm
+Mars result: 7015 lines
+User result: 7015 lines
+User cycle count: 10021
+User stall count: 1999
+D:\Code\mips\mips-asm-test\lfsr.asm PASSED
+----------------------------------------------
+Running D:\Code\mips\mips-asm-test\pointer-chasing.asm
+Mars result: 10310 lines
+User result: 10310 lines
+User cycle count: 12451
+User stall count: 1090
+D:\Code\mips\mips-asm-test\pointer-chasing.asm PASSED
+----------------------------------------------
